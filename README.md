@@ -7,7 +7,7 @@ A simple gem to get the [emoji flag](http://emojipedia.org/flags/) for a [ISO 63
 ```ruby
 EmojiFlag.new('nl') # => 🇳🇱
 EmojiFlag.new('en') # => 🇬🇧
-EmojiFlag.new('en_GB') # => 🇬🇧
+EmojiFlag.new('nl_BE') # => 🇧🇪
 EmojiFlag.new('en_US') # => 🇺🇸
 ```
 
