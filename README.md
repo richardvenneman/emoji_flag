@@ -16,7 +16,7 @@ EmojiFlag.new('nl_BE') # => 🇧🇪
 EmojiFlag.new('en_US') # => 🇺🇸
 ```
 
-Also supports passing in a symbol language code, making it easy to integrate with [http://guides.rubyonrails.org/i18n.html](Rails' `I18n.available_locales`):
+Also supports passing in a symbol language code, making it easy to integrate with [Rails' `I18n.available_locales`](http://guides.rubyonrails.org/i18n.html]):
 
 ```ruby
 EmojiFlag.new(:de) # => 🇩🇪
