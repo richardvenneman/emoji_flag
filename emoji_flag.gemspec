@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'richardvenneman@me.com'
   s.homepage    = 'https://github.com/richardvenneman/emoji_flag'
   s.summary     = 'Emoji country flags for language codes.'
-  s.description = 'Returns the emoji flag for a ISO 639-1 language code or LCID.'
+  s.description = 'Returns the emoji flag for an ISO 639-1 language code or LCID.'
 
   s.files       = `git ls-files`.split("\n")
   s.test_files  = Dir['test/**/*']

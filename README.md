@@ -1,6 +1,6 @@
 # EmojiFlag
 
-A simple gem to get the [emoji flag](http://emojipedia.org/flags/) for a [ISO 639-1 language code](http://www.loc.gov/standards/iso639-2/php/English_list.php) or locale id string (LCID).
+A simple gem to get the [emoji flag](http://emojipedia.org/flags/) for an [ISO 639-1 language code](http://www.loc.gov/standards/iso639-2/php/English_list.php) or locale id string (LCID).
 
 [![Travis CI status](https://img.shields.io/travis/richardvenneman/emoji_flag.svg?style=flat-square)](https://travis-ci.org/richardvenneman/emoji_flag)
 [![RubyGem](https://img.shields.io/gem/v/emoji_flag.svg?style=flat-square)](https://rubygems.org/gems/emoji_flag)
@@ -16,7 +16,7 @@ EmojiFlag.new('nl_BE') # => 🇧🇪
 EmojiFlag.new('en_US') # => 🇺🇸
 ```
 
-Also supports passing in a symbol language code, making it easy to integrate with Rails' `I18n.available_locale`:
+Also supports passing in a symbol language code, making it easy to integrate with [http://guides.rubyonrails.org/i18n.html](Rails' `I18n.available_locales`):
 
 ```ruby
 EmojiFlag.new(:de) # => 🇩🇪
