@@ -1,12 +1,14 @@
 # EmojiFlag
 
-A simple gem to get the [emoji flag](http://emojipedia.org/flags/) for a [ISO 639-1 language code](http://www.loc.gov/standards/iso639-2/php/English_list.php).
+A simple gem to get the [emoji flag](http://emojipedia.org/flags/) for a [ISO 639-1 language code](http://www.loc.gov/standards/iso639-2/php/English_list.php) or locale id string (LCID).
 
 ## Usage
 
 ```ruby
 EmojiFlag.new('nl') # => 🇳🇱
 EmojiFlag.new('en') # => 🇬🇧
+EmojiFlag.new('en_GB') # => 🇬🇧
+EmojiFlag.new('en_US') # => 🇺🇸
 ```
 
 Also supports passing in a symbol language code, making it easy to integrate with Rails' `I18n.available_locale`:
