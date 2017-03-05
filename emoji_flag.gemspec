@@ -3,6 +3,7 @@ require './lib/emoji_flag/version'
 Gem::Specification.new do |s|
   s.name        = 'emoji_flag'
   s.version     = EmojiFlag::VERSION
+  s.license     = 'MIT'
   s.authors     = ['Richard Venneman']
   s.email       = 'richardvenneman@me.com'
   s.homepage    = 'https://github.com/richardvenneman/emoji_flag'
