@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    emoji_flag (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  emoji_flag!
+
+BUNDLED WITH
+   1.14.5
