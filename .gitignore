@@ -1,4 +1,4 @@
-# osx noise
-.DS_Store
-profile
-coverage
+/.bundle/
+/Gemfile.lock
+/coverage/
+/tmp/
