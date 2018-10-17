@@ -2,10 +2,10 @@
 
 A simple gem to get the [emoji flag](http://emojipedia.org/flags/) for an [ISO 639-1 language code](http://www.loc.gov/standards/iso639-2/php/English_list.php) or locale id string (LCID).
 
-[![Travis CI status](https://img.shields.io/travis/richardvenneman/emoji_flag.svg?style=flat-square)](https://travis-ci.org/richardvenneman/emoji_flag)
-[![RubyGem](https://img.shields.io/gem/v/emoji_flag.svg?style=flat-square)](https://rubygems.org/gems/emoji_flag)
-[![Code Climate](https://img.shields.io/codeclimate/github/richardvenneman/emoji_flag.svg?style=flat-square)](https://codeclimate.com/github/richardvenneman/emoji_flag)
-[![Code Climate](https://img.shields.io/codeclimate/coverage/github/richardvenneman/emoji_flag.svg?style=flat-square)](https://codeclimate.com/github/richardvenneman/emoji_flag/coverage)
+[![Build Status](https://travis-ci.org/richardvenneman/emoji_flag.svg?branch=master)](https://travis-ci.org/richardvenneman/emoji_flag)
+[![Gem Version](https://badge.fury.io/rb/emoji_flag.svg)](https://badge.fury.io/rb/emoji_flag)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a89942c8e3aca31dfd6a/maintainability)](https://codeclimate.com/github/richardvenneman/emoji_flag/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a89942c8e3aca31dfd6a/test_coverage)](https://codeclimate.com/github/richardvenneman/emoji_flag/test_coverage)
 
 ## Usage
 
