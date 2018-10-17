@@ -6,8 +6,6 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    codeclimate-test-reporter (1.0.6)
-      simplecov
     coderay (1.1.1)
     docile (1.1.5)
     ffi (1.9.17)
@@ -59,7 +57,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  codeclimate-test-reporter (~> 1.0.0)
   emoji_flag!
   guard (~> 2.14)
   guard-minitest (~> 2.4)
@@ -67,4 +64,4 @@ DEPENDENCIES
   simplecov
 
 BUNDLED WITH
-   1.14.5
+   1.16.2
