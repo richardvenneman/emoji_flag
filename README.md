@@ -7,6 +7,12 @@ A simple gem to get the [emoji flag](http://emojipedia.org/flags/) for an [ISO 6
 [![Maintainability](https://api.codeclimate.com/v1/badges/a89942c8e3aca31dfd6a/maintainability)](https://codeclimate.com/github/richardvenneman/emoji_flag/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a89942c8e3aca31dfd6a/test_coverage)](https://codeclimate.com/github/richardvenneman/emoji_flag/test_coverage)
 
+## Install
+
+```sh
+gem install emoji_flag
+```
+
 ## Usage
 
 ```ruby
