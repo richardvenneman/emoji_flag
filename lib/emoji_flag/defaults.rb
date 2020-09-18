@@ -146,7 +146,7 @@ module EmojiFlag
     te: 'IN',
     teo: 'UG',
     th: 'TH',
-    ti: 'ET',
+    ti: 'ER',
     to: 'TO',
     tr: 'TR',
     twq: 'NE',
