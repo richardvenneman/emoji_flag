@@ -39,7 +39,7 @@ module EmojiFlag
     el: 'GR',
     es: 'ES',
     et: 'EE',
-    eu: 'ES',
+    eu: 'EU',
     ewo: 'CM',
     fa: 'IR',
     fil: 'PH',
