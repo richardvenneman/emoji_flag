@@ -153,6 +153,7 @@ module EmojiFlag
     tzm: 'MA',
     uk: 'UA',
     ur: 'PK',
+    us: 'US',
     uz: 'UZ',
     vai: 'LR',
     vi: 'VN',
